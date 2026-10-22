@@ -1,0 +1,9 @@
+# Scratch & Raw Scraping Dumps
+pages_dump/
+site_specs/
+*_raw.html
+*.log
+media_list.txt
+all_images_to_download.txt
+all_videos_to_download.txt
+extracted_site_content.json
